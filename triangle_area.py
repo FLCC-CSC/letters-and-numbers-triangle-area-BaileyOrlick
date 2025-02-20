@@ -24,7 +24,8 @@ float_h = float(height)
 float_b = float(base)
 
 area = 1/2 * height * base
-    
+
+print()
 print(f'The area of the triangle is {area}')
     
     
