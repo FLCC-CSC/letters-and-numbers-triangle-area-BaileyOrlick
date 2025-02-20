@@ -22,7 +22,7 @@ base = int(input('Enter the base: '))
 
 area = 1/2 * height * base
     
-print(f'The area of the triangle is {area} ')
+print(f'The area of the triangle is {area}')
     
     
     
