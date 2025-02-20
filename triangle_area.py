@@ -20,6 +20,9 @@
 height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
 
+float_h = float(height)
+float_b = float(base)
+
 area = 1/2 * height * base
     
 print(f'The area of the triangle is {area}')
